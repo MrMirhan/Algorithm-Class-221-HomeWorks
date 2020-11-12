@@ -1,0 +1,4 @@
+﻿  AlgoritmaOdev3.cpp
+C:\Users\hamza\Documents\Repos\AlgoritmaOdev3\AlgoritmaOdev3.cpp(62,30): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\hamza\Documents\Repos\AlgoritmaOdev3\AlgoritmaOdev3.cpp(16,13): warning C4101: 'sum': yerel değişken başvurusu kaldırıldı
+  AlgoritmaOdev3.vcxproj -> C:\Users\hamza\Documents\Repos\AlgoritmaOdev3\Debug\AlgoritmaOdev3.exe

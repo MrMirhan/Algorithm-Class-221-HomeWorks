@@ -1,0 +1,3 @@
+﻿  AlgoritmaOdev1.cpp
+C:\Users\hamza\Documents\Repos\AlgoritmaOdev1\AlgoritmaOdev1.cpp(16,13): warning C4101: 'sum': yerel değişken başvurusu kaldırıldı
+  AlgoritmaOdev1.vcxproj -> C:\Users\hamza\Documents\Repos\AlgoritmaOdev1\Debug\AlgoritmaOdev1.exe

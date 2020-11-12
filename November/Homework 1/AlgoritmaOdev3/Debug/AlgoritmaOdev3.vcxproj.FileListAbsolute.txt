@@ -1,0 +1,2 @@
+C:\Users\hamza\Documents\Repos\AlgoritmaOdev3\Debug\AlgoritmaOdev3.exe
+C:\Users\hamza\Documents\Repos\AlgoritmaOdev3\Debug\AlgoritmaOdev3.pdb
