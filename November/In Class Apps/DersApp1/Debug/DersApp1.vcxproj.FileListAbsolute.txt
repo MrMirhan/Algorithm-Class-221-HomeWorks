@@ -1,0 +1,4 @@
+C:\Users\hamza\Documents\Repos\DersApp1\Debug\DersApp1.exe
+C:\Users\hamza\Documents\Repos\DersApp1\Debug\DersApp1.pdb
+C:\Users\hamza\Documents\Repos\HomeworkRepos\Algorithm-Class-221-HomeWorks\November\In Class Apps\DersApp1\Debug\DersApp1.exe
+C:\Users\hamza\Documents\Repos\HomeworkRepos\Algorithm-Class-221-HomeWorks\November\In Class Apps\DersApp1\Debug\DersApp1.pdb
