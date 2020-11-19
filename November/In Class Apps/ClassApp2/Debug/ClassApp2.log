@@ -1,0 +1,3 @@
+﻿  ClassApp2.cpp
+C:\Users\hamza\Documents\Repos\HomeworkRepos\Algorithm-Class-221-HomeWorks\November\In Class Apps\ClassApp2\ClassApp2.cpp(91,22): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  ClassApp2.vcxproj -> C:\Users\hamza\Documents\Repos\HomeworkRepos\Algorithm-Class-221-HomeWorks\November\In Class Apps\ClassApp2\Debug\ClassApp2.exe
