@@ -1,0 +1,4 @@
+C:\Users\hamza\Documents\Repos\HomeworkRepos\Algorithm-Class-221-HomeWorks\November\Studing\StudyApp1\Debug\StudyApp1.exe
+C:\Users\hamza\Documents\Repos\HomeworkRepos\Algorithm-Class-221-HomeWorks\November\Studing\StudyApp1\Debug\StudyApp1.pdb
+C:\Users\hamza\Documents\Repos\November\Studing\StudyApp1\Debug\StudyApp1.exe
+C:\Users\hamza\Documents\Repos\November\Studing\StudyApp1\Debug\StudyApp1.pdb
