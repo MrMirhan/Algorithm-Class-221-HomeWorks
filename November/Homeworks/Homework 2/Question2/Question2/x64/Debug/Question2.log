@@ -1,0 +1,4 @@
+﻿  Question2.cpp
+C:\Users\hamza\Documents\Repos\November\Homeworks\Homework 2\Question2\Question2\Question2.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hamza\Documents\Repos\November\Homeworks\Homework 2\Question2\Question2\Question2.cpp(52,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Question2.vcxproj -> C:\Users\hamza\Documents\Repos\November\Homeworks\Homework 2\Question2\x64\Debug\Question2.exe
